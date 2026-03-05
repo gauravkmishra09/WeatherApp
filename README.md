@@ -22,17 +22,5 @@ WeatherApp
 ├── main.js
 └── README.md
 
-## ⚡ How to Run
-1. Clone the repository
-
-git clone https://github.com/gauravkmishra09/WeatherApp.git
-
-2. Open the project folder
-
-3. Open `index.html` in your browser
-
-## 📸 Demo
-Add screenshots of the project here.
-
 ## 👨‍💻 Author
 Gaurav Kumar Mishra
